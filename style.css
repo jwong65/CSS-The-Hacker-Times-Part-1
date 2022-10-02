@@ -26,3 +26,16 @@ header{
 h1{
     text-align: center;
 }
+nav{
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+}
+ul{
+    text-align: center;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    left: 0px;
+    padding:1em;
+}

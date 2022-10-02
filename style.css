@@ -24,7 +24,9 @@ main>p{
     color:black
 }
 main{
-
+    text-align: justify;
+    width:600px;
+    padding: 1em;
 }
 main>h2{
     font-family: Roboto Slab;
@@ -58,5 +60,8 @@ li{
 section{
     display: inline-block;
     width: 300px;
-    text-align: center;
+    padding: 1em;
+}
+section>p{
+    text-align: justify;
 }

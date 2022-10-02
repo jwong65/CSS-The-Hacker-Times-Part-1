@@ -44,8 +44,8 @@ h5{
     color:#dd3232
 }
 nav{
-    border-top:1px solid black;
-    border-bottom: 1px solid black;
+    border-top:1px solid #777;
+    border-bottom: 1px solid #777;
     display:inline-block;
 }
 ul{
@@ -58,7 +58,8 @@ li{
     padding: 0.25em;
 }
 section{
-    border-top:1px solid black;
+    box-shadow: #777;
+    border-top:1px solid #777;
     display: inline-block;
     width: 300px;
     padding: 1em;

@@ -17,3 +17,12 @@ a{
 main>p{
     color:#dd3232;
 }
+main>h2{
+    font-family: Roboto Slab;
+}
+header{
+    font-family:Abril Fatface;
+}
+h1{
+    text-align: center;
+}

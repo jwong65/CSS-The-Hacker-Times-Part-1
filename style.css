@@ -21,12 +21,15 @@ a{
     color:#777 
 }
 main>p{
-    color:#dd3232;
+    color:black
 }
 main>h2{
     font-family: Roboto Slab;
 }
-header{
+h4{
+    font-family: Roboto Slab;
+}
+header>h1{
     font-family:Abril Fatface;
 }
 h1{

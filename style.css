@@ -5,6 +5,15 @@ body{
     border-color: white;
 }
 newspaper-container{
+    width: 700px;
+    border-radius: 15px;
+
     background-color: white;
     box-shadow: #ddd;
+}
+a{
+    color:#777 
+}
+main>p{
+    color:#dd3232;
 }

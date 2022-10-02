@@ -23,6 +23,9 @@ a{
 main>p{
     color:black
 }
+main{
+
+}
 main>h2{
     font-family: Roboto Slab;
 }
@@ -51,6 +54,5 @@ li{
 }
 section{
     display: inline-block;
-    width: 700px;
-    text-align: center;
+    width: 600px;
 }

@@ -49,3 +49,8 @@ li{
     left: 0px;
     padding: 0.25em;
 }
+section{
+    display: inline-block;
+    width: 700px;
+    text-align: center;
+}

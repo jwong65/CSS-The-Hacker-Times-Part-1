@@ -8,9 +8,10 @@ body{
 .newspaper-container{
     width: 700px;
     border-radius: 15px;
-    text-align: center;
+    margin: auto;
     background-color: white;
     box-shadow: #ddd;
+    padding: 5em;
 }
 a{
     color:#777 

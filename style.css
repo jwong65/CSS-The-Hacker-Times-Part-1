@@ -44,6 +44,9 @@ h5{
     color:#dd3232
 }
 nav{
+    position: sticky;
+    top:0;
+    background-color: white;
     border-top:1px solid #777;
     border-bottom: 1px solid #777;
     display:inline-block;
